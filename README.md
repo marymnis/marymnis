@@ -7,7 +7,7 @@ Um pouquinho sobre mim!
 💻 - Comecei estudando programação por conta própria, começando com Python. Pretendo aprofundar meus conhecimentos ingressando no curso de Análise e Desenvolvimento de Sistemas
 
 
-<div style="display: inline_block"><br>
+<div align="center">
   <a href="https://github.com/marymnis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marymnis&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marymnis&layout=compact&langs_count=7&theme=omni"/>
