@@ -1,3 +1,11 @@
+Um pouquinho sobre mim! 
+
+👋🏻 - Olá, meu nome é Mariana, e atualmente me encontro em um momento de migração de carreira 🎉
+
+📚 - Estou me formando em Turismo, porém me encontrei na programação! Já possuo inglês avançado, o que só tem ajudado nos meus estudos
+
+💻 - Comecei estudando programação por conta própria, começando com Python. Pretendo aprofundar meus conhecimentos ingressando no curso de Análise e Desenvolvimento de Sistemas
+
 
 <div align="center">
   <a href="https://github.com/marymnis">
