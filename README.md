@@ -5,9 +5,7 @@ Um pouquinho sobre mim!
 📚 - Estou me formando em Turismo, porém me encontrei na programação! Já possuo inglês avançado, o que só tem ajudado nos meus estudos
 
 💻 - Comecei estudando programação por conta própria, começando com Python. Pretendo aprofundar meus conhecimentos ingressando no curso de Análise e Desenvolvimento de Sistemas
-
-
-<div align="left">
+<div align="center">
   <a href="https://github.com/marymnis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marymnis&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marymnis&layout=compact&langs_count=7&theme=omni"/>
