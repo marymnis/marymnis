@@ -1,20 +1,16 @@
-Um pouquinho sobre mim! 
 
-👋🏻 - Olá, meu nome é Mariana, e atualmente me encontro em um momento de migração de carreira 🎉
-
-📚 - Estou me formando em Turismo, porém me encontrei na programação! Já possuo inglês avançado, o que só tem ajudado nos meus estudos
-
-💻 - Comecei estudando programação por conta própria, começando com Python. Pretendo aprofundar meus conhecimentos ingressando no curso de Análise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/marymnis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marymnis&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marymnis&layout=compact&langs_count=7&theme=omni"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marymnis&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marymnis&layout=compact&langs_count=7&theme=omni"/>
 </div>
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">          
 </div>
   
   ##
